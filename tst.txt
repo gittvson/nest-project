@@ -1,0 +1,21 @@
+{
+    "id":"CUSTOMER_ID",
+    "externalId1":"CUSTOMER_EXTERNAL_ID_1",
+    "externalId2":"CUSTOMER_EXTERNAL_ID_2",
+    "email":"CUSTOMER_EMAIL",
+    "firstName":"CUSTOMER_FIRST_NAME",
+    "lastName":"CUSTOMER_LAST_NAME",
+    "language":"CUSTOMER_LANGUAGE",
+    "phone":"CUSTOMER_PHONE",
+    "addressL1":"CUSTOMER_ADDRESS_L1",
+    "addressL2":"CUSTOMER_ADDRESS_L2",
+    "addressL3":"CUSTOMER_ADDRESS_L3",
+    "city":"CUSTOMER_CITY",
+    "state":"CUSTOMER_STATE",
+    "zip":"CUSTOMER_ZIP",
+    "country":"CUSTOMER_COUNTRY",
+    "status":"CUSTOMER_STATUS",
+    "archived":"CUSTOMER_ARCHIVED",
+    "createdTs":"CUSTOMER_CREATED_TS",
+    "lastupdateTs":"CUSTOMER_LASTUPDATE_TS"
+}
